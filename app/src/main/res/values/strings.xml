@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calls VK</string>
+    <string name="profile_picture">Picture of the profile. In this case conference participant turn his camera off.</string>
+    <string name="messagesButton">messages</string>
+    <string name="groupButton">group</string>
+    <string name="change_video_previews">Change video previews</string>
+    <string name="toggleCameraButton">camera activation button</string>
+    <string name="toggleMicrophoneButton">microphone activation button</string>
+    <string name="reactionButton">reaction selection button</string>
+    <string name="endButton">call end button</string>
+</resources>
